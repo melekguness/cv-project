@@ -5,7 +5,7 @@ Bu proje, akademik geçmişimi ve teknik yeteneklerimi sergilemek için hazırla
 ### Özellikler:
 - **Modern Tasarım:** Minimalist ve profesyonel bir arayüz.
 - **Responsive:** Mobil cihazlarla tam uyumlu.
-- **Teknik Detaylar:** HTML5 ve CSS3 kullanılarak sıfırdan kodlanmıştır.
+- **Teknik Detaylar:** HTML5 ve CSS3 kullanılarak kodlanmıştır.
 
 ### İçerik:
 - **Eğitim:** Samsun Üniversitesi (2025-2027).
